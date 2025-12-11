@@ -1,0 +1,2 @@
+{"update_id":877962306,
+"message":{"message_id":189,"from":{"id":7681132581,"is_bot":false,"first_name":"\u6e23\u6e23\u8f89","username":"laosiji1116","language_code":"zh-hans","is_premium":true},"chat":{"id":7681132581,"first_name":"\u6e23\u6e23\u8f89","username":"laosiji1116","type":"private"},"date":1764320986,"text":"\ud83d\udc53\u7528\u6237\u4e2d\u5fc3"}}
